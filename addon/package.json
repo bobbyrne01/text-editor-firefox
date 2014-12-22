@@ -1,0 +1,10 @@
+{
+  "name": "text-editor-firefox",
+  "title": "Basic Text Editor",
+  "id": "jid1-BzE1Cx3jlxacgQ",
+  "description": "WYSIWYG text editor .. allowing user to create and edit text",
+  "author": "Robert Byrne",
+  "license": "GNU GPL v3",
+  "version": "0.1.0",
+  "permissions": {"private-browsing": true}
+}
