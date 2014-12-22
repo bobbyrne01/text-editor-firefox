@@ -2,7 +2,7 @@
     "name": "text-editor-firefox", 
     "license": "GNU GPL v3",
     "author": "Robert Byrne", 
-    "version": "0.1.0", 
+    "version": "0.1.1", 
     "id": "jid1-LVilRE7lHkw0fw", 
     "description": "WYSIWYG text editor .. allowing user to create and edit text",
     "main": "addon/lib/main.js",
